@@ -31,7 +31,7 @@ export function App() {
         <div className="exercise" id="ex-4">
           <NavBar />
           <Menu />
-          {/* <Checkout /> */} 
+          <Checkout /> 
         </div>
       </div>
     </div>
